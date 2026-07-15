@@ -1,6 +1,6 @@
 date,value,series_id,series_name,unit,frequency
-2026-07-13,5.8364,eur_brl_ptax,EUR/BRL PTAX (compra),R$,daily
+2026-07-14,5.7988,eur_brl_ptax,EUR/BRL PTAX (compra),R$,daily
 2026-06-01,4.64,ipca_12m,IPCA acumulado 12 meses,% a.a.,monthly
 2026-06-01,0.16,ipca_monthly,IPCA mensal,% a.m.,monthly
-2026-07-13,0.052531,selic_over,Selic Over (daily rate),% a.d.,daily
-2026-07-13,5.1183,usd_brl_ptax,USD/BRL PTAX (compra),R$,daily
+2026-07-14,0.052531,selic_over,Selic Over (daily rate),% a.d.,daily
+2026-07-14,5.0742,usd_brl_ptax,USD/BRL PTAX (compra),R$,daily
