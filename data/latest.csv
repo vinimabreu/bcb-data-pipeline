@@ -1,4 +1,5 @@
 date,value,series_id,series_name,unit,frequency
 2026-08-01,4.22,ipca_12m,IPCA acumulado 12 meses,% a.a.,monthly
-2026-10-07,0.050788,selic_over,Selic Over (daily rate),% a.d.,daily
-2026-10-07,4.9935,usd_brl_ptax,USD/BRL PTAX (compra),R$,daily
+2026-10-09,13.75,selic_meta,Selic meta,% a.a.,daily
+2026-10-08,0.050788,selic_over,Selic Over (daily rate),% a.d.,daily
+2026-10-08,5.0119,usd_brl_ptax,USD/BRL PTAX (compra),R$,daily
