@@ -1,3 +1,4 @@
 date,value,series_id,series_name,unit,frequency
 2026-09-01,4.58,ipca_12m,IPCA acumulado 12 meses,% a.a.,monthly
 2026-09-01,0.82,ipca_monthly,IPCA mensal,% a.m.,monthly
+2026-10-28,13.75,selic_meta,Selic meta,% a.a.,daily
